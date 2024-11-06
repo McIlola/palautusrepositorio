@@ -12,4 +12,6 @@ print(f"Lukujen {x} ja {y} summa on {summa(x, y)}")  # muutos bugikorjaus-branch
 print(f"Lukujen {x} ja {y} erotus on {erotus(x, y)}")  # muutos bugikorjaus-branchissa
 
 logger("lopetetaan ohjelma")
-print("goodbye!")#muutos
+print("goodbye!")
+
+print("muutos")
